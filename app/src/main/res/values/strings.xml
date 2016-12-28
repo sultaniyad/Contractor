@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Contractor</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="workers">WORKERS</string>
+    <string name="contracts">CONTRACTS</string>
+    <string name="workerExpireDate">IQAMA</string>
+    <string name="ContractsExpireDate">Contracts DATE</string>
+    <string name="full_name">Add full name</string>
+    <string name="nationality">Nationality</string>
+    <string name="iqama_number">Iqama number</string>
+    <string name="issue_date">Issue date of iqama</string>
+    <string name="expire_date">Expire date of iqama</string>
+    <string name="remain_days_till_iqama_expire">Remain days IQAMA expire: </string>
+    <string name="add_worker">Add</string>
+</resources>
